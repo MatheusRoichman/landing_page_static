@@ -28,9 +28,38 @@
 }
 
 @font-face {
+  font-family: 'Manrope';
+  src: url('../assets/fonts/manrope/manrope-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('../assets/fonts/manrope/manrope-medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('../assets/fonts/manrope/manrope-semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('../assets/fonts/manrope/manrope-bold.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
   font-family: 'Chronicle Display';
   src: url('../assets/fonts/chronicle-display/chronicle-display-light.woff2') format('woff2');
   font-weight: 300;
+  font-display: swap;
 }
 
 @font-face {
